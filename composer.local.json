@@ -1,0 +1,10 @@
+{
+  "require": {
+    "mediawiki/semantic-media-wiki": "^4.1.2"
+  },
+  "config": {
+    "allow-plugins": {
+      "composer/installers": true
+    }
+  }
+}
